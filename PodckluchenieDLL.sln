@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.34031.81
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PodckluchenieDLL", "PodckluchenieDLL\PodckluchenieDLL.csproj", "{B481A4B4-69BC-45C1-873C-2BE6229B1E14}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DynamicLinkLibrary", "..\DynamicLinkLibrary\DynamicLinkLibrary\DynamicLinkLibrary.csproj", "{03402AB2-D82D-424C-9A56-1C705D9D0810}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B481A4B4-69BC-45C1-873C-2BE6229B1E14}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B481A4B4-69BC-45C1-873C-2BE6229B1E14}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B481A4B4-69BC-45C1-873C-2BE6229B1E14}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B481A4B4-69BC-45C1-873C-2BE6229B1E14}.Release|Any CPU.Build.0 = Release|Any CPU
+		{03402AB2-D82D-424C-9A56-1C705D9D0810}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{03402AB2-D82D-424C-9A56-1C705D9D0810}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{03402AB2-D82D-424C-9A56-1C705D9D0810}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{03402AB2-D82D-424C-9A56-1C705D9D0810}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C53B2963-46EC-46AF-8738-727B00DB92A2}
+	EndGlobalSection
+EndGlobal
